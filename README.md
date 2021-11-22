@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DuckArroyo
-- 👀 I’m interested in anime, crossfit, ingress.
-- 🌱 I’m currently on week 2 of a 24 week bootcamp
+- 👀 I’m interested in traveling, anime, ingress, hiking, crossfit.
+- 🌱 I’m currently on week 17 of a 24 week coding bootcamp
 - 💞️ I’m looking to collaborate on a web based inventory system
 - 📫 How to reach me ...
 - [Portfolio](https://duckarroyo.github.io/challenge2/)
