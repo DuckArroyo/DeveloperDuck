@@ -1,6 +1,6 @@
-- 👋 Hi, I’m RAfael Arroyo. I go by Duck. 
+- 👋 Hi, I’m Rafael Arroyo. I go by Duck. 
 - 👀 I’m interested in spending time outdoors, traveling, anime, and crossfit.
-- 🌱 I’m currently on week 121 of a 24 week coding bootcamp. 
+- 🌱 I’m currently on week 22 of a 24 week Full stack web developer coding bootcamp. 
 - 💞️ I’m looking to collaborate on a web based inventory system
 - 📫 How to reach me ...
 
